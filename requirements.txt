@@ -1,0 +1,6 @@
+pygame==2.5.2
+pygame-gui==0.6.9
+sqlalchemy==2.0.23
+bcrypt==4.1.1
+PyJWT==2.8.0
+python-dotenv==1.0.0
