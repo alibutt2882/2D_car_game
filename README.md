@@ -1025,7 +1025,7 @@ Thank you to everyone who has contributed to making Neon Racer possible!
 
 <div align="center">
 
-**Made with ❤️ and lots of ☕**
+**Made with ❤️**
 
 [⬆ Back to Top](#️-neon-racer---cyberpunk-racing-game)
 
